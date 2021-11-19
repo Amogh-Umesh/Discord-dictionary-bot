@@ -16,7 +16,7 @@ Discord bot that can give definitions, synonyms, examples etc using the https://
 ## Add bot to  sever:
 Click this link https://discord.com/api/oauth2/authorize?client_id=910500555393204225&permissions=72704&scope=bot to add this bot to your server
 The Bot needs the following permissions for all features to work:\
--> Read Messages
--> Send Messages
--> Read Message history
--> Send TTS messages
+-> Read Messages\
+-> Send Messages\
+-> Read Message history\
+-> Send TTS messages\
