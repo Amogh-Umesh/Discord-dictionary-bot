@@ -1,5 +1,6 @@
 from discord.ext import commands
 from dictionary_commands import DictionaryFunctions
+import os
 
 bot = commands.Bot(command_prefix='~')
 
@@ -11,4 +12,4 @@ async def on_ready():
 
 bot.add_cog(DictionaryFunctions(bot))
 
-bot.run('OTEwNTAwNTU1MzkzMjA0MjI1.YZTvuA.1a8Ajc10virg0LESOZaiM7UzTFc')
+bot.run(os.environ['DISCORD_TOKEN'])
