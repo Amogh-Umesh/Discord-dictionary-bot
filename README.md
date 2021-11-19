@@ -1,6 +1,6 @@
 # Discord dictionary bot
 Discord bot that can give definitions, synonyms, examples etc using the https://dictionaryapi.dev/ API\
-~ is the command prefix for the bot\
+~ is the command prefix for the bot
 ## Commands:
 ~all : Gives all details about the word(Definitions, examples, synonyms)\
 \
